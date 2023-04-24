@@ -51,12 +51,12 @@ inquirer.prompt([
     },
     {
       type: "input",
-      message: "If you have questions contact me at:",
+      message: "If you have questions my github link is:",
       name: "github"
     },
     {
       type: "input",
-      message: "or email me at:",
+      message: "or you can email me at:",
       name: "email"
     }
   ])

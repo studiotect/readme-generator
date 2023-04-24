@@ -14,7 +14,6 @@ function renderLicenseBadge(license) {
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) {}
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
@@ -35,6 +34,11 @@ function generateMarkdown(data) {
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
+  - [Badges](#badges)
+  - [Features](#features)
+  - [How to Contribute](#how-to-contribute)
+  - [Tests](#tests)
+  - [Questions](#questions)
   
   ## Installation
   
@@ -73,7 +77,9 @@ function generateMarkdown(data) {
   ## Questions
 
   If you have questions you can contact me at:
+
   ${data.github} 
+  
   ${data.email}
   
 `;
