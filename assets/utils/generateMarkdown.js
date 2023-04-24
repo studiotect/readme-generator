@@ -7,7 +7,7 @@ function renderLicenseBadge(license) {
   else if (license === "GNU"){
     return `[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)`
   }
-  if else (license === "IBM"){
+  else if (license === "IBM"){
     return `[![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)`
   }
 }
