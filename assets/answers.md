@@ -5,5 +5,5 @@ When you want to create a README file.
 MIT
 Jason Triemert
 To test use the command node index.js and try different answers.
-https://github.com/studiotect/
+https://github.com/studiotect/readme-generator
 jaytriemert@gmail.com
