@@ -1,7 +1,7 @@
-# skdafjn
+# Greatest of All Time
 
   ## Description
-  sdcobun
+  This is a description
   
   ## Table of Contents (Optional)
   
@@ -19,15 +19,15 @@
   
   ## Installation
   
-  wouihqw
+  node index.js
   
   ## Usage
   
-  owienc
+  when you want to create a readme file
 
   ## Credits
   
-  cewoinewrg
+  Jason Triemert
   
   ## License
   
@@ -49,13 +49,13 @@
   
   ## Tests
   
-  oaiqertuq]we
+  user testing
 
   ## Questions
 
   If you have questions you can contact me at:
 
-  cmewqpmfl 
+  github 
   
-  oedifjerwklns.
+  jaytriemert@gmai.com
   
